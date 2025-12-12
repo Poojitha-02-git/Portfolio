@@ -3,7 +3,7 @@ This is my personal portfolio website built using HTML, Tailwind CSS, and JavaSc
 
 LANGUAGE USED:
 HTML.
-CSS.
+Tailwind CSS.
 Java Script.
 
 TOOL USED:
