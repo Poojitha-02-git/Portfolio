@@ -9,6 +9,7 @@ Java Script.
 TOOL USED:
 VS code
 
-Web page developed
-![Portfolio](https://poojitha-02-git.github.io/Portfolio/)
+Web page developed:
+[Portfolio](https://poojitha-02-git.github.io/Portfolio/)
+
 
