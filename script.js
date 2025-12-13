@@ -1,3 +1,4 @@
+
 const sideMenu = document.querySelector('#sideMenu');
 const navBar = document.querySelector("nav");
 const navLinks = document.querySelector("nav ul");
@@ -20,3 +21,4 @@ window.addEventListener('scroll', ()=>{
         navLinks.classList.add('bg-white', 'shadow-sm', 'bg-opacity-50');
     }
 })
+
